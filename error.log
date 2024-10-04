@@ -1,0 +1,130 @@
+2024-08-26 23:56:36,107 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-26 23:56:36,107 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-26 23:57:08,538 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-26 23:57:08,538 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-26 23:57:17,854 - INFO - 127.0.0.1 - - [26/Aug/2024 23:57:17] "GET /dashboard/hourly_load HTTP/1.1" 200 -
+2024-08-26 23:57:17,894 - INFO - 127.0.0.1 - - [26/Aug/2024 23:57:17] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2024-08-26 23:57:17,898 - INFO - 127.0.0.1 - - [26/Aug/2024 23:57:17] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2024-08-26 23:57:18,215 - INFO - 127.0.0.1 - - [26/Aug/2024 23:57:18] "[36mGET /dashboard/static/elements/menu.html HTTP/1.1[0m" 304 -
+2024-08-26 23:57:18,216 - INFO - 127.0.0.1 - - [26/Aug/2024 23:57:18] "[36mGET /dashboard/static/elements/modal.html HTTP/1.1[0m" 304 -
+2024-08-26 23:57:18,218 - INFO - 127.0.0.1 - - [26/Aug/2024 23:57:18] "[36mGET /dashboard/static/img/favicon.ico HTTP/1.1[0m" 304 -
+2024-08-26 23:57:18,218 - INFO - 127.0.0.1 - - [26/Aug/2024 23:57:18] "[36mGET /dashboard/static/pages/plotly_graph.html HTTP/1.1[0m" 304 -
+2024-08-26 23:57:18,240 - INFO - 127.0.0.1 - - [26/Aug/2024 23:57:18] "[36mGET /dashboard/static/elements/endpointDetails.html HTTP/1.1[0m" 304 -
+2024-08-26 23:57:18,249 - INFO - 127.0.0.1 - - [26/Aug/2024 23:57:18] "GET /dashboard/api/custom_graphs HTTP/1.1" 200 -
+2024-08-26 23:57:18,252 - INFO - 127.0.0.1 - - [26/Aug/2024 23:57:18] "GET /dashboard/api/hourly_load/2024-08-12/2024-08-26 HTTP/1.1" 200 -
+2024-08-26 23:57:18,258 - INFO - 127.0.0.1 - - [26/Aug/2024 23:57:18] "[36mGET /dashboard/static/elements/monitorLevel.html HTTP/1.1[0m" 304 -
+2024-08-26 23:57:20,804 - INFO - 127.0.0.1 - - [26/Aug/2024 23:57:20] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2024-08-26 23:57:20,829 - INFO - 127.0.0.1 - - [26/Aug/2024 23:57:20] "[36mGET /dashboard/static/pages/telemetry.html HTTP/1.1[0m" 304 -
+2024-08-26 23:57:20,845 - INFO - 127.0.0.1 - - [26/Aug/2024 23:57:20] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2024-08-26 23:57:20,845 - INFO - 127.0.0.1 - - [26/Aug/2024 23:57:20] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2024-08-26 23:57:21,613 - INFO - 127.0.0.1 - - [26/Aug/2024 23:57:21] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2024-08-26 23:57:24,286 - INFO - 127.0.0.1 - - [26/Aug/2024 23:57:24] "GET / HTTP/1.1" 200 -
+2024-08-26 23:57:24,540 - INFO - 127.0.0.1 - - [26/Aug/2024 23:57:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-08-26 23:57:26,780 - INFO - 127.0.0.1 - - [26/Aug/2024 23:57:26] "POST / HTTP/1.1" 200 -
+2024-08-27 12:07:22,214 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:22] "GET /dashboard/ HTTP/1.1" 200 -
+2024-08-27 12:07:22,266 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:22] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2024-08-27 12:07:22,288 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:22] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2024-08-27 12:07:22,326 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:22] "[36mGET /dashboard/static/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-08-27 12:07:22,718 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:22] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2024-08-27 12:07:22,719 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:22] "[36mGET /dashboard/static/elements/menu.html HTTP/1.1[0m" 304 -
+2024-08-27 12:07:22,720 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:22] "[36mGET /dashboard/static/elements/modal.html HTTP/1.1[0m" 304 -
+2024-08-27 12:07:22,721 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:22] "[36mGET /dashboard/static/img/favicon.ico HTTP/1.1[0m" 304 -
+2024-08-27 12:07:22,757 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:22] "[36mGET /dashboard/static/pages/telemetry.html HTTP/1.1[0m" 304 -
+2024-08-27 12:07:22,783 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:22] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2024-08-27 12:07:23,018 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:23] "GET /dashboard/api/custom_graphs HTTP/1.1" 200 -
+2024-08-27 12:07:23,024 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:23] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2024-08-27 12:07:23,098 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:23] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2024-08-27 12:07:26,666 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:26] "[36mGET /dashboard/static/pages/plotly_graph.html HTTP/1.1[0m" 304 -
+2024-08-27 12:07:26,688 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:26] "[36mGET /dashboard/static/elements/endpointDetails.html HTTP/1.1[0m" 304 -
+2024-08-27 12:07:26,696 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:26] "[36mGET /dashboard/static/elements/monitorLevel.html HTTP/1.1[0m" 304 -
+2024-08-27 12:07:26,946 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:26] "GET /dashboard/api/hourly_load/2024-08-13/2024-08-27 HTTP/1.1" 200 -
+2024-08-27 12:07:28,161 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:28] "GET /dashboard/api/versions HTTP/1.1" 200 -
+2024-08-27 12:07:28,162 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:28] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2024-08-27 12:07:28,425 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:28] "POST /dashboard/api/multi_version HTTP/1.1" 200 -
+2024-08-27 12:07:29,021 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:29] "GET /dashboard/api/requests/2024-08-17/2024-08-27 HTTP/1.1" 200 -
+2024-08-27 12:07:30,081 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:30] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2024-08-27 12:07:30,346 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:30] "POST /dashboard/api/api_performance HTTP/1.1" 200 -
+2024-08-27 12:07:30,631 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:30] "GET /dashboard/static/pages/reporting.html HTTP/1.1" 200 -
+2024-08-27 12:07:31,963 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:31] "GET /dashboard/api/hourly_load/2024-08-13/2024-08-27 HTTP/1.1" 200 -
+2024-08-27 12:07:32,224 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:32] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2024-08-27 12:07:32,482 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:32] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2024-08-27 12:07:32,484 - INFO - 127.0.0.1 - - [27/Aug/2024 12:07:32] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2024-08-27 12:09:02,871 - INFO - 127.0.0.1 - - [27/Aug/2024 12:09:02] "[32mGET /dashboard/ HTTP/1.1[0m" 302 -
+2024-08-27 12:09:02,886 - INFO - 127.0.0.1 - - [27/Aug/2024 12:09:02] "GET /dashboard/login HTTP/1.1" 200 -
+2024-08-27 12:09:02,903 - INFO - 127.0.0.1 - - [27/Aug/2024 12:09:02] "GET /dashboard/static/css/main.css HTTP/1.1" 200 -
+2024-08-27 12:09:02,904 - INFO - 127.0.0.1 - - [27/Aug/2024 12:09:02] "GET /dashboard/static/js/app.js HTTP/1.1" 200 -
+2024-08-27 12:09:02,908 - INFO - 127.0.0.1 - - [27/Aug/2024 12:09:02] "GET /dashboard/static/img/header.png HTTP/1.1" 200 -
+2024-08-27 12:09:02,929 - INFO - 127.0.0.1 - - [27/Aug/2024 12:09:02] "GET /dashboard/static/fonts/fa-solid-900.woff2 HTTP/1.1" 200 -
+2024-08-27 12:09:03,814 - INFO - 127.0.0.1 - - [27/Aug/2024 12:09:03] "GET /dashboard/static/pages/overview.html HTTP/1.1" 200 -
+2024-08-27 13:27:10,433 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 13:27:10,434 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 13:27:45,444 - INFO - 127.0.0.1 - - [27/Aug/2024 13:27:45] "GET / HTTP/1.1" 200 -
+2024-08-27 13:27:50,330 - INFO - 127.0.0.1 - - [27/Aug/2024 13:27:50] "GET /dashboard/ HTTP/1.1" 200 -
+2024-08-27 13:27:50,531 - INFO - 127.0.0.1 - - [27/Aug/2024 13:27:50] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2024-08-27 13:27:50,543 - INFO - 127.0.0.1 - - [27/Aug/2024 13:27:50] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2024-08-27 13:27:50,923 - INFO - 127.0.0.1 - - [27/Aug/2024 13:27:50] "[36mGET /dashboard/static/elements/menu.html HTTP/1.1[0m" 304 -
+2024-08-27 13:27:50,960 - INFO - 127.0.0.1 - - [27/Aug/2024 13:27:50] "[36mGET /dashboard/static/elements/modal.html HTTP/1.1[0m" 304 -
+2024-08-27 13:27:50,998 - INFO - 127.0.0.1 - - [27/Aug/2024 13:27:50] "[36mGET /dashboard/static/img/favicon.ico HTTP/1.1[0m" 304 -
+2024-08-27 13:27:51,056 - INFO - 127.0.0.1 - - [27/Aug/2024 13:27:51] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2024-08-27 13:27:51,081 - INFO - 127.0.0.1 - - [27/Aug/2024 13:27:51] "GET /dashboard/api/custom_graphs HTTP/1.1" 200 -
+2024-08-27 13:27:51,170 - INFO - 127.0.0.1 - - [27/Aug/2024 13:27:51] "[36mGET /dashboard/static/pages/telemetry.html HTTP/1.1[0m" 304 -
+2024-08-27 13:27:51,256 - INFO - 127.0.0.1 - - [27/Aug/2024 13:27:51] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2024-08-27 13:27:52,519 - INFO - 127.0.0.1 - - [27/Aug/2024 13:27:52] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2024-08-27 13:27:53,019 - INFO - 127.0.0.1 - - [27/Aug/2024 13:27:53] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2024-08-27 13:27:53,083 - INFO - 127.0.0.1 - - [27/Aug/2024 13:27:53] "[36mGET /dashboard/static/elements/monitorLevel.html HTTP/1.1[0m" 304 -
+2024-08-27 13:28:48,353 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 13:28:48,353 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 13:29:06,426 - INFO - 127.0.0.1 - - [27/Aug/2024 13:29:06] "GET /dashboard/overview HTTP/1.1" 200 -
+2024-08-27 13:29:06,463 - INFO - 127.0.0.1 - - [27/Aug/2024 13:29:06] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2024-08-27 13:29:06,466 - INFO - 127.0.0.1 - - [27/Aug/2024 13:29:06] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2024-08-27 13:29:06,686 - INFO - 127.0.0.1 - - [27/Aug/2024 13:29:06] "[36mGET /dashboard/static/elements/menu.html HTTP/1.1[0m" 304 -
+2024-08-27 13:29:06,687 - INFO - 127.0.0.1 - - [27/Aug/2024 13:29:06] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2024-08-27 13:29:06,688 - INFO - 127.0.0.1 - - [27/Aug/2024 13:29:06] "[36mGET /dashboard/static/elements/modal.html HTTP/1.1[0m" 304 -
+2024-08-27 13:29:06,688 - INFO - 127.0.0.1 - - [27/Aug/2024 13:29:06] "[36mGET /dashboard/static/img/favicon.ico HTTP/1.1[0m" 304 -
+2024-08-27 13:29:06,701 - INFO - 127.0.0.1 - - [27/Aug/2024 13:29:06] "GET /dashboard/api/custom_graphs HTTP/1.1" 200 -
+2024-08-27 13:29:06,711 - INFO - 127.0.0.1 - - [27/Aug/2024 13:29:06] "[36mGET /dashboard/static/pages/telemetry.html HTTP/1.1[0m" 304 -
+2024-08-27 13:29:06,725 - INFO - 127.0.0.1 - - [27/Aug/2024 13:29:06] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2024-08-27 13:29:06,726 - INFO - 127.0.0.1 - - [27/Aug/2024 13:29:06] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2024-08-27 13:29:07,752 - INFO - 127.0.0.1 - - [27/Aug/2024 13:29:07] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2024-08-27 13:29:07,762 - INFO - 127.0.0.1 - - [27/Aug/2024 13:29:07] "[36mGET /dashboard/static/elements/monitorLevel.html HTTP/1.1[0m" 304 -
+2024-08-27 13:29:10,312 - INFO - 127.0.0.1 - - [27/Aug/2024 13:29:10] "[36mGET /dashboard/static/pages/plotly_graph.html HTTP/1.1[0m" 304 -
+2024-08-27 13:29:10,327 - INFO - 127.0.0.1 - - [27/Aug/2024 13:29:10] "[36mGET /dashboard/static/elements/endpointDetails.html HTTP/1.1[0m" 304 -
+2024-08-27 13:29:10,722 - INFO - 127.0.0.1 - - [27/Aug/2024 13:29:10] "GET /dashboard/api/hourly_load/2024-08-13/2024-08-27 HTTP/1.1" 200 -
+2024-08-27 13:29:11,976 - INFO - 127.0.0.1 - - [27/Aug/2024 13:29:11] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2024-08-27 13:29:12,369 - INFO - 127.0.0.1 - - [27/Aug/2024 13:29:12] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2024-08-27 13:29:12,373 - INFO - 127.0.0.1 - - [27/Aug/2024 13:29:12] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2024-08-27 13:29:57,896 - INFO - 127.0.0.1 - - [27/Aug/2024 13:29:57] "POST /dashboard/api/set_rule HTTP/1.1" 200 -
+2024-08-27 13:57:09,581 - INFO - 127.0.0.1 - - [27/Aug/2024 13:57:09] "GET /dashboard/api/hourly_load/2024-08-13/2024-08-27 HTTP/1.1" 200 -
+2024-08-27 13:57:11,197 - INFO - 127.0.0.1 - - [27/Aug/2024 13:57:11] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2024-08-27 13:57:11,198 - INFO - 127.0.0.1 - - [27/Aug/2024 13:57:11] "GET /dashboard/api/versions HTTP/1.1" 200 -
+2024-08-27 13:57:11,552 - INFO - 127.0.0.1 - - [27/Aug/2024 13:57:11] "POST /dashboard/api/multi_version HTTP/1.1" 200 -
+2024-08-27 14:01:02,282 - INFO - 127.0.0.1 - - [27/Aug/2024 14:01:02] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2024-08-27 14:01:02,639 - INFO - 127.0.0.1 - - [27/Aug/2024 14:01:02] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2024-08-27 14:01:02,836 - INFO - 127.0.0.1 - - [27/Aug/2024 14:01:02] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2024-08-27 15:25:14,481 - INFO - 127.0.0.1 - - [27/Aug/2024 15:25:14] "GET / HTTP/1.1" 200 -
+2024-08-27 15:25:18,788 - INFO - 127.0.0.1 - - [27/Aug/2024 15:25:18] "POST / HTTP/1.1" 200 -
+2024-08-27 15:25:33,204 - INFO - 127.0.0.1 - - [27/Aug/2024 15:25:33] "POST / HTTP/1.1" 200 -
+2024-08-27 15:26:27,077 - INFO - 127.0.0.1 - - [27/Aug/2024 15:26:27] "GET / HTTP/1.1" 200 -
+2024-08-28 14:10:17,290 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-28 14:10:17,290 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-28 14:11:04,741 - INFO - 127.0.0.1 - - [28/Aug/2024 14:11:04] "GET / HTTP/1.1" 200 -
+2024-08-28 14:11:08,274 - INFO - 127.0.0.1 - - [28/Aug/2024 14:11:08] "POST / HTTP/1.1" 200 -
+2024-08-28 14:11:11,497 - INFO - 127.0.0.1 - - [28/Aug/2024 14:11:11] "GET /dashboard/ HTTP/1.1" 200 -
+2024-08-28 14:11:11,681 - INFO - 127.0.0.1 - - [28/Aug/2024 14:11:11] "GET /dashboard/static/js/app.js HTTP/1.1" 200 -
+2024-08-28 14:11:11,681 - INFO - 127.0.0.1 - - [28/Aug/2024 14:11:11] "GET /dashboard/static/css/main.css HTTP/1.1" 200 -
+2024-08-28 14:11:12,358 - INFO - 127.0.0.1 - - [28/Aug/2024 14:11:12] "GET /dashboard/static/fonts/fa-solid-900.woff2 HTTP/1.1" 200 -
+2024-08-28 14:11:14,293 - INFO - 127.0.0.1 - - [28/Aug/2024 14:11:14] "GET /dashboard/static/elements/menu.html HTTP/1.1" 200 -
+2024-08-28 14:11:14,294 - INFO - 127.0.0.1 - - [28/Aug/2024 14:11:14] "GET /dashboard/static/elements/modal.html HTTP/1.1" 200 -
+2024-08-28 14:11:14,294 - INFO - 127.0.0.1 - - [28/Aug/2024 14:11:14] "GET /dashboard/static/pages/overview.html HTTP/1.1" 200 -
+2024-08-28 14:11:14,297 - INFO - 127.0.0.1 - - [28/Aug/2024 14:11:14] "GET /dashboard/static/img/favicon.ico HTTP/1.1" 200 -
+2024-08-28 14:11:14,309 - INFO - 127.0.0.1 - - [28/Aug/2024 14:11:14] "GET /dashboard/api/custom_graphs HTTP/1.1" 200 -
+2024-08-28 14:11:14,323 - INFO - 127.0.0.1 - - [28/Aug/2024 14:11:14] "GET /dashboard/static/pages/telemetry.html HTTP/1.1" 200 -
+2024-08-28 14:11:14,334 - INFO - 127.0.0.1 - - [28/Aug/2024 14:11:14] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2024-08-28 14:11:14,589 - INFO - 127.0.0.1 - - [28/Aug/2024 14:11:14] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2024-08-28 14:11:18,082 - INFO - 127.0.0.1 - - [28/Aug/2024 14:11:18] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2024-08-28 14:11:18,103 - INFO - 127.0.0.1 - - [28/Aug/2024 14:11:18] "GET /dashboard/static/elements/monitorLevel.html HTTP/1.1" 200 -
